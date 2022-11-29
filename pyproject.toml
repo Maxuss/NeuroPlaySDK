@@ -3,8 +3,8 @@ name = "NeuroPlay"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
-license = "../LICENSE"
-readme = "../README.md"
+license = "LICENSE"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
