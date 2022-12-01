@@ -22,7 +22,7 @@ class NeuroPlay:
 
     def set_connected(self, connected):
         if self.isConnected != connected:
-            print("Connected", connected)
+            # print("Connected", connected)
             self.isConnected = connected
             if connected:
                 for callback in self.onConnected:
